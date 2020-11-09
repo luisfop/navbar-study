@@ -66,4 +66,5 @@ section h2{
     background: orange;
     transform: scale(2);
     border-radius: 5px;
+    transition: all 0.5s ease;
 }
